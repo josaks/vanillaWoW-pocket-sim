@@ -1,0 +1,10 @@
+//hittables abstract factory?
+//bruke 100 istedetfor desimaler i hittables
+
+//testing
+
+
+
+//configuration screen
+//form min max dmg horizontal input
+//post to api backend for actual simulation
